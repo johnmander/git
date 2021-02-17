@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnmander
 - 👀 I’m interested in technology and music
-- 🌱 I’m currently learning Python, Git, Github, some Data Analytics and other tech goodness
+- 🌱 I’m currently learning Python, Git, Github and other tech goodness
 - 💞️ I’m looking to collaborate on anything as I am on a learning journey
 - 📫 How to reach me johnsmander@icloud.com
 
